@@ -8,6 +8,10 @@ The repository contains the following files and directories:
 
 - `EV Vehicle Analysis Project.twbx`: The main Tableau workbook file containing all dashboards and analyses.
 - `README.md`: This README file.
+- `Background.jpg` This file can be used as background for the dashboard.
+- `Electric Vechile Presentation.pptx` This file gives brief information about KPI's and proeject requirements.
+- `Electric_Vehicle_Population_Data.xlsb` Main data set file of project.
+- `ev logo.png` logo for the dashboard.
 ## Usage:
 
 Once the Tableau workbook is open, you can interact with the various dashboards included in the project. These dashboards allow you to:
